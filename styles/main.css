@@ -1,0 +1,57 @@
+body {
+    background-color: #1C121F;
+    z-index: 0;
+    background-image: url(../assets/imgs/blurrEffect.png);
+    z-index: 1;
+}
+
+.hero {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+main .text-introduce {
+    width: 710px;
+    height: 390px;
+    margin-top: 274px;
+    margin-left: 80px;
+}
+
+main .text-introduce span {
+    font-family: 'Oxanium';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 85px;
+    color: #F5FBF2;
+}
+
+main .text-introduce .text-introduce-duo-color {
+    width: 710px;
+    height: 390px;
+    margin-top: 274px;
+    font-family: 'Oxanium';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 85px;
+    color: #FFCE4E;
+}
+
+main .hero .teste {
+    max-width: 556px;
+    max-height: 718px;
+}
+
+main .hero .teste img {
+    height: 100%;
+    width: 100%;
+    padding-top: 242px;
+}
+
+main .hero .blur-bg {
+    background: rgba(79, 70, 78, 0.45);
+    backdrop-filter: blur(30px);
+    background-size: cover;
+    width: 770px;
+    height: 1063px
+}
