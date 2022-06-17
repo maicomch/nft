@@ -66,17 +66,14 @@ main .top-creators-section .top-creators-title {
 main .top-creators-section .container-creators {
     display: flex;
     justify-content: center;
-    align-items: center;
     color: #F5FBF2;
 }
 
 main .top-creators-section .container-creators .creator-one {
     display: flex;
     background-color: #302034;
-    padding-top: 42px;
-    padding-bottom: 34px;
-    padding-left: 29px;
-    padding-right: 80px;
+    padding: 42px 80px 34px 29px;
+    margin: 80px 72px 56px 156px;
     justify-content: space-around;
 }
 
