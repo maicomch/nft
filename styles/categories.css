@@ -1,0 +1,138 @@
+.color-sub-title-categories {
+    background-color: #8613a5;
+    z-index: -1;
+    width: 148px;
+    height: 150px;
+    border-radius: 100%;
+    position: relative;
+    left: 27rem;
+    top: 14.2rem;
+}
+
+.title-sub-categories {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    font-family: Oxanium;
+    font-style: bold;
+    font-weight: 700;
+    font-size: 64px;
+    color: #f5fbf2;
+}
+
+.imagens-informations-categorie {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.imagen-categorie-item {
+    background-color: #3d2942;
+    max-width: 415px;
+    max-height: 504px;
+    padding: 32px;
+}
+
+.imagen-categorie-item img {
+    max-width: 351px;
+    max-height: 306px;
+}
+
+.categorie-text-informations {
+    margin-top: 8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.categorie-icon-1 img {
+    max-width: 58px;
+    max-height: 58px;
+}
+
+.categorie-icon-2 img {
+    max-width: 24px;
+    max-height: 22.2px;
+    color: #76607a;
+}
+
+.categorie-information {
+    font-family: Work Sans;
+    color: #f5fbf2;
+    font-size: 24px;
+}
+
+.categorie-information-item {
+    margin-right: 80px;
+}
+
+.categorie-like {
+    color: #76607a;
+    font-family: Work Sans;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.categorie-text-name {
+    font-family: Work Sans;
+    font-size: 18px;
+    color: #bdaac1;
+}
+
+.categorie-information-offer {
+    margin-top: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.categorie-offer {
+    font-family: Work Sans;
+    font-size: 24px;
+    color: #c6bfc8;
+}
+
+.categorie-value {
+    font-family: Oxanium;
+    font-style: bold;
+    font-size: 24px;
+    color: #f5fbf2;
+}
+
+.botao-categorie {
+    display: flex;
+    margin-top: 60px;
+    justify-content: center;
+}
+
+.botao-btn-categorie {
+    width: 246px;
+    height: 70px;
+    background-color: #ffce4e;
+    position: relative;
+    bottom: 24.5rem;
+    color: #000000;
+    font-family: Work Sans;
+    font-weight: normal;
+    font-size: 24px;
+    text-align: center;
+}
+
+.botao-view {
+    display: flex;
+    margin-top: 80px;
+    justify-content: center;
+}
+
+.botao-btn-view {
+    background: linear-gradient(#251928, rgba(37, 25, 40, 0));
+    margin-bottom: 80px;
+    width: 257px;
+    height: 84px;
+    border: solid #ffce4e;
+    color: #ffffff;
+    font-family: Work Sans;
+    font-weight: medium;
+    font-size: 24px;
+}
