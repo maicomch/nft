@@ -1,0 +1,98 @@
+/* Top Creators */
+
+main .top-creators-section {
+    background-color: #1C121F
+}
+
+main .top-creators-section .top-creators-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Oxanium";
+    font-size: 64px;
+    font-weight: 700;
+    color: #F5FBF2;
+    padding-top: 104px;
+    padding-bottom: 80px;
+}
+
+main .top-creators-section .container-creators {
+    display: flex;
+    justify-content: center;
+    color: #F5FBF2;
+}
+
+main .top-creators-section .container-creators .creator {
+    display: flex;
+    background-color: #302034;
+    padding: 42px 30px 34px 29px;
+    margin: 56px 36px 56px 36px;
+    justify-content: space-around;
+}
+
+main .top-creators-section .container-creators .creator .creator-text-informations .creator-name {
+    font-family: "Oxanium";
+    font-size: 32px;
+    font-weight: 600;
+    padding-top: 42px;
+    padding-left: 24px;
+    padding-right: 100px
+}
+
+main .top-creators-section .container-creators .creator .creator-text-informations {
+    padding-top: 16px;
+}
+
+main .top-creators-section .container-creators .creator .creator-text-informations .creator-money {
+    font-family: "Work Sans";
+    font-size: 24px;
+    font-weight: 500;
+    padding-top: 8px;
+    padding-left: 24px;
+    color: #BDAAC1
+}
+
+main .top-creators-section .container-creators .creator img {
+    width: 104px;
+    height: 104px;
+}
+
+main .top-creators-section .container-creators .creator hr {
+    background-color: #49374E;
+}
+
+main .top-creators-section .container-creators .creator .creator-items .creator-item {
+    font-family: "Oxanium";
+    font-size: 32px;
+    font-weight: 700;
+    padding-top: 11px;
+    padding-right: 80px;
+    padding-left: 57px;
+}
+
+main .top-creators-section .container-creators .creator .creator-items .creator-items-text {
+    font-family: "Work Sans";
+    font-size: 24px;
+    font-weight: 500;
+    padding-top: 6px;
+    padding-right: 80px;
+    padding-left: 45px;
+    color: #908294;
+}
+
+main .top-creators-section .view-all-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+main .top-creators-section .view-all-button button {
+    font-family: "Work Sans";
+    font-size: 30px;
+    font-weight: 500;
+    color: #F5FBF2;
+    margin: 80px 0px 80px 0px;
+    padding: 24px 65px;
+    background-color: transparent;
+    border: 1px solid #FFCE4E;
+}
