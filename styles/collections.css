@@ -1,102 +1,102 @@
 .color-sub-title-collection {
-    background-color: #e03054;
-    z-index: -1;
-    width: 148px;
-    height: 150px;
-    border-radius: 100%;
-    position: relative;
-    left: 29.7rem;
-    top: 14rem;
+  background-color: #e03054;
+  z-index: -1;
+  width: 148px;
+  height: 150px;
+  border-radius: 100%;
+  position: relative;
+  left: 29.7rem;
+  top: 14rem;
 }
 
 .title-sub-collection {
-    display: flex;
-    justify-content: center;
-    font-family: Oxanium;
-    font-style: bold;
-    font-weight: 700;
-    font-size: 64px;
-    color: #f5fbf2;
+  display: flex;
+  justify-content: center;
+  font-family: Oxanium;
+  font-style: bold;
+  font-weight: 700;
+  font-size: 64px;
+  color: #f5fbf2;
 }
 
 .imagens-informations-collections {
-    display: flex;
-    justify-content: center;
-    gap: 36px;
+  display: flex;
+  justify-content: center;
+  gap: 36px;
 }
 
 .imagen-collections-item {
-    background-color: #3d2942;
-    max-width: 525px;
-    max-height: 432px;
-    padding: 32px;
+  background-color: #3d2942;
+  max-width: 525px;
+  max-height: 432px;
+  padding: 32px;
 }
 
 .imagen-collections-item img {
-    max-width: 453px;
-    max-height: 272px;
+  max-width: 453px;
+  max-height: 272px;
 }
 
 .icon-arrow-collection {
-    max-width: 72px;
-    max-height: 72px;
-    display: flex;
-    flex-direction: row;
-    position: absolute;
-    left: 93.8rem;
-    top: 220rem;
+  max-width: 72px;
+  max-height: 72px;
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  left: 92.2rem;
+  top: 267rem;
 }
 
 .icon-arrow img {
-    max-width: 54px;
-    max-height: 54px;
+  max-width: 54px;
+  max-height: 54px;
 }
 
 .collections-text-informations {
-    margin-top: 20px;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .collections-informations {
-    margin-right: 150px;
+  margin-right: 150px;
 }
 
 .collections-icon img {
-    max-width: 64px;
-    max-height: 64px;
+  max-width: 64px;
+  max-height: 64px;
 }
 
 .information-wzard {
-    padding-left: 20px;
-    font-family: Work Sans;
-    color: #f5fbf2;
-    font-size: 32px;
+  padding-left: 20px;
+  font-family: Work Sans;
+  color: #f5fbf2;
+  font-size: 32px;
 }
 
 .token {
-    font-family: Work Sans;
-    color: #c2b5c6;
-    font-size: 20px;
-    vertical-align: top;
+  font-family: Work Sans;
+  color: #c2b5c6;
+  font-size: 20px;
+  vertical-align: top;
 }
 
 .botao-view {
-    display: flex;
-    margin-top: 80px;
-    justify-content: center;
+  display: flex;
+  margin-top: 80px;
+  justify-content: center;
 }
 
 .botao-btn-view {
-    background: linear-gradient(#251928, rgba(37, 25, 40, 0));
-    margin-bottom: 80px;
-    width: 257px;
-    height: 84px;
-    border: solid #ffce4e;
-    color: #ffffff;
-    font-family: Work Sans;
-    font-weight: medium;
-    font-size: 24px;
+  background: linear-gradient(#251928, rgba(37, 25, 40, 0));
+  margin-bottom: 80px;
+  width: 257px;
+  height: 84px;
+  border: solid #ffce4e;
+  color: #ffffff;
+  font-family: Work Sans;
+  font-weight: medium;
+  font-size: 24px;
 }

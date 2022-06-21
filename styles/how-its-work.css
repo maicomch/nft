@@ -1,110 +1,110 @@
 .subtitle-explain {
-    margin-top: 5rem;
-    margin-bottom: 1rem;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
+  margin-top: 5rem;
+  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 }
 
 .subtitle-explain h2 {
-    font-family: Oxanium;
-    font-style: bold;
-    font-size: 64px;
-    color: #f5fbf2;
+  font-family: Oxanium;
+  font-style: bold;
+  font-size: 64px;
+  color: #f5fbf2;
 }
 
 .explain {
-    display: flex;
-    text-align: center;
-    flex-direction: row;
-    justify-content: center;
-    margin-bottom: 7rem;
-    gap: 9rem;
+  display: flex;
+  text-align: center;
+  flex-direction: row;
+  justify-content: center;
+  margin-bottom: 7rem;
+  gap: 9rem;
 }
 
-.imagen-1 {
-    background-color: #372839;
-    width: 106px;
-    height: 106px;
-    border-radius: 100%;
+.imagen-Wallet {
+  background-color: #372839;
+  width: 106px;
+  height: 106px;
+  border-radius: 100%;
 }
 
-.imagen-1 img {
-    max-width: 40px;
-    max-height: 40px;
-    padding-left: 5px;
-    padding-top: 37px;
+.imagen-Wallet img {
+  max-width: 40px;
+  max-height: 40px;
+  padding-left: 5px;
+  padding-top: 37px;
 }
 
 .imagen-sub {
-    width: 166px;
-    height: 15px;
-    position: relative;
-    left: 170px;
-    bottom: 40px;
+  width: 166px;
+  height: 15px;
+  position: relative;
+  left: 170px;
+  bottom: 40px;
 }
 
 .imagen-sub-3 img {
-    width: 125px;
-    height: 15px;
-    position: relative;
-    left: 170px;
-    bottom: 40px;
+  width: 125px;
+  height: 15px;
+  position: relative;
+  left: 170px;
+  bottom: 40px;
 }
 
 .imagen-caption {
-    text-align: center;
-    font-family: Work Sans;
-    font-size: 24px;
-    color: #ffce4e;
+  text-align: center;
+  font-family: Work Sans;
+  font-size: 24px;
+  color: #ffce4e;
 }
 
 .imagen-caption-4 {
-    padding-top: 20px;
-    text-align: center;
-    font-family: Work Sans;
-    font-size: 24px;
-    color: #ffce4e;
+  padding-top: 20px;
+  text-align: center;
+  font-family: Work Sans;
+  font-size: 24px;
+  color: #ffce4e;
 }
 
-.imagen-2 {
-    background-color: #372839;
-    width: 106px;
-    height: 106px;
-    border-radius: 100%;
+.imagen-Collection {
+  background-color: #372839;
+  width: 106px;
+  height: 106px;
+  border-radius: 100%;
 }
 
-.imagen-2 img {
-    max-width: 40px;
-    max-height: 40px;
-    padding-left: 5px;
-    padding-top: 37px;
+.imagen-Collection img {
+  max-width: 40px;
+  max-height: 40px;
+  padding-left: 5px;
+  padding-top: 37px;
 }
 
-.imagen-3 {
-    background-color: #372839;
-    width: 106px;
-    height: 106px;
-    border-radius: 100%;
+.imagen-NFTs {
+  background-color: #372839;
+  width: 106px;
+  height: 106px;
+  border-radius: 100%;
 }
 
-.imagen-3 img {
-    max-width: 40px;
-    max-height: 40px;
-    padding-left: 5px;
-    padding-top: 37px;
+.imagen-NFTs img {
+  max-width: 40px;
+  max-height: 40px;
+  padding-left: 5px;
+  padding-top: 37px;
 }
 
-.imagen-4 {
-    background-color: #372839;
-    width: 106px;
-    height: 106px;
-    border-radius: 100%;
+.imagen-For-Sale {
+  background-color: #372839;
+  width: 106px;
+  height: 106px;
+  border-radius: 100%;
 }
 
-.imagen-4 img {
-    max-width: 40px;
-    max-height: 40px;
-    padding-left: 5px;
-    padding-top: 37px;
+.imagen-For-Sale img {
+  max-width: 40px;
+  max-height: 40px;
+  padding-left: 5px;
+  padding-top: 37px;
 }
