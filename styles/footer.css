@@ -1,170 +1,175 @@
 main .footer-section {
-    background-color: #251928;
-    z-index: 0;
-    background-image: url(../assets/imgs/blurrEffect.png);
-    z-index: 1;
+  background-color: #251928;
+  background-image: url(../assets/imgs/blurrEffect.png);
+  z-index: 1;
 }
 
 footer {
-    display: flex;
-    justify-content: space-around
+  display: flex;
+  justify-content: space-around;
 }
 
 footer .container-social-media {
-    display: flex
+  display: flex;
 }
 
 footer .container-social-media .logo-footer {
-    max-width: 194px;
-    max-height: 194px;
-    margin-top: 115px;
-    margin-right: 80px;
-    margin-bottom: 203px
+  max-width: 194px;
+  max-height: 194px;
+  margin-top: 115px;
+  margin-right: 80px;
+  margin-bottom: 203px;
 }
 
 footer .container-social-media .logo-footer img {
-    width: 100%;
-    height: 100%;
+  width: 100%;
+  height: 100%;
 }
 
 footer .container-social-media .text-social-media {
-    max-width: 391px;
-    max-height: 92px;
-    margin-top: 119px;
-    margin-right: 51px;
-    margin-bottom: 52px
+  max-width: 391px;
+  max-height: 92px;
+  margin-top: 119px;
+  margin-right: 51px;
+  margin-bottom: 52px;
 }
 
 footer .container-social-media .text-social-media span {
-    width: 100%;
-    height: 100%;
-    font-family: "Work Sans";
-    font-weight: 500;
-    font-size: 20px;
-    color: #96839B;
+  width: 100%;
+  height: 100%;
+  font-family: "Work Sans";
+  font-weight: 500;
+  font-size: 20px;
+  color: #96839b;
 }
 
 footer .container-social-media .social-media-icons {
-    max-width: 247px;
-    max-height: 45px;
-    display: flex;
+  max-width: 247px;
+  max-height: 45px;
+  display: flex;
 }
 
 #youtube {
-    width: 38px;
-    height: 27px;
-    margin-right: 33px;
+  width: 38px;
+  height: 27px;
+  margin-right: 33px;
 }
 
 #twitter {
-    width: 33px;
-    height: 27px;
-    margin-right: 33px;
+  width: 33px;
+  height: 27px;
+  margin-right: 33px;
 }
 
 #facebook {
-    width: 14px;
-    height: 27px;
-    margin-right: 33px;
+  width: 14px;
+  height: 27px;
+  margin-right: 33px;
 }
 
 #googleplus {
-    width: 28px;
-    height: 27px;
-    margin-right: 33px;
+  width: 28px;
+  height: 27px;
+  margin-right: 33px;
 }
 
 footer .container-social-media .footer-rights-text {
-    margin-top: 63px;
-    margin-right: 53px;
-    margin-bottom: 116px;
+  margin-top: 63px;
+  margin-right: 53px;
+  margin-bottom: 116px;
 }
 
 footer .container-social-media .footer-rights-text span {
-    width: 100%;
-    height: 100%;
-    font-family: "Work Sans";
-    font-size: 20px;
-    font-weight: 400;
-    color: #96839B
+  width: 100%;
+  height: 100%;
+  font-family: "Work Sans";
+  font-size: 20px;
+  font-weight: 400;
+  color: #96839b;
 }
 
 footer .footer-links {
-    display: flex;
-    margin-top: 108px;
-    margin-bottom: 148px;
+  display: flex;
+  margin-top: 108px;
+  margin-bottom: 148px;
 }
 
 footer .footer-links ul {
-    list-style: none;
-    margin-right: 251px
+  list-style: none;
+  margin-right: 251px;
 }
 
 footer .footer-links li {
-    margin-top: 18px;
-    font-family: "Work Sans";
-    color: #F5FBF2;
-    font-size: 24px;
-    font-weight: 700
+  margin-top: 18px;
+  font-family: "Work Sans";
+  color: #f5fbf2;
+  font-size: 24px;
+  font-weight: 700;
 }
 
 footer .footer-links li a {
-    text-decoration: none;
-    font-family: "Work Sans";
-    font-weight: 500;
-    font-size: 20px;
-    color: #96839B
+  text-decoration: none;
+  font-family: "Work Sans";
+  font-weight: 500;
+  font-size: 20px;
+  color: #96839b;
 }
 
 main .subscribe-section {
-    background-image: url(../assets/imgs/Pattern.png);
-    padding-top: 117px;
-    padding-bottom: 117px;
+  background-image: url(../assets/imgs/Pattern.png);
+  padding-top: 117px;
+  padding-bottom: 117px;
 }
 
 main .subscribe-section .subscribe-text {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 main .subscribe-section .subscribe-text span {
-    font-family: "Oxanium";
-    font-size: 64px;
-    font-weight: 600;
-    color: #F5FBF2;
+  font-family: "Oxanium";
+  font-size: 64px;
+  font-weight: 600;
+  color: #f5fbf2;
 }
 
 main .subscribe-section .subscribe-input-email {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 main .subscribe-section .subscribe-input-email input {
-    background: transparent;
-    border: #E7B226 1px solid;
-    padding: 30px 195px 30px 53px;
-    margin-top: 25px;
-    font-family: "Work Sans";
-    font-weight: 400;
-    font-size: 24px;
-    color: #A48EA9
+  background: transparent;
+  border: #e7b226 1px solid;
+  padding: 30px 195px 30px 53px;
+  margin-top: 25px;
+  font-family: "Work Sans";
+  font-weight: 400;
+  font-size: 24px;
+  color: #a48ea9;
 }
 
 main .subscribe-section .subscribe-input-email button a {
-    text-decoration: none;
-    color: #251928;
-    font-family: "Work Sans";
-    font-size: 24px;
-    font-weight: 700;
-    padding: 32px 63px 28px 63px;
+  text-decoration: none;
+  color: #251928;
+  font-family: "Work Sans";
+  font-size: 24px;
+  font-weight: 700;
+  padding: 32px 63px 28px 63px;
 }
 
 main .subscribe-section .subscribe-input-email button {
-    margin-left: -3px;
-    margin-top: 24px;
-    padding-top: 32px;
-    padding-bottom: 29px;
-    background-color: #E7B226;
+  margin-left: -3px;
+  margin-top: 24px;
+  padding-top: 32px;
+  padding-bottom: 29px;
+  background-color: #e7b226;
+}
+
+@media (max-width: 768px) {
+  footer {
+    flex-direction: column;
+  }
 }
